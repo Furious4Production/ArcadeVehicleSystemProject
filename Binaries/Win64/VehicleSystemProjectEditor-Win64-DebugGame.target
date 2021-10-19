@@ -10,9 +10,9 @@
 	{
 		"MajorVersion": 4,
 		"MinorVersion": 27,
-		"PatchVersion": 0,
-		"Changelist": 17155196,
-		"CompatibleChangelist": 0,
+		"PatchVersion": 1,
+		"Changelist": 17735300,
+		"CompatibleChangelist": 17155196,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.27",
@@ -36,19 +36,19 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.dll",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem-Win64-DebugGame.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.pdb",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem-Win64-DebugGame.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.dll",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor-Win64-DebugGame.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.pdb",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor-Win64-DebugGame.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -4716,7 +4716,7 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor.modules",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-Win64-DebugGame.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5210,7 +5210,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/ArcadeVehicleSystem.uplugin",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/ArcadeVehicleSystem.uplugin",
 			"Type": "UFS"
 		},
 		{
