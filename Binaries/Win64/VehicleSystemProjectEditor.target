@@ -36,19 +36,19 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.dll",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.pdb",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystem.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.dll",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.pdb",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor-ArcadeVehicleSystemEditor.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -4468,7 +4468,7 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/Binaries/Win64/UE4Editor.modules",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -4910,7 +4910,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/ArcadeVehicleSystem/ArcadeVehicleSystem.uplugin",
+			"Path": "$(ProjectDir)/Plugins/ArcadeVehicleSystem/ArcadeVehicleSystem.uplugin",
 			"Type": "UFS"
 		},
 		{
